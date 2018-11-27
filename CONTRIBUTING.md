@@ -1,0 +1,1 @@
+Make a contribution by creating an issue or making a merge request.
