@@ -20,11 +20,15 @@ To enable Vulkan support, open “Player Settings”, go to the “Other Setting
 # Requirements and installation
 ![mapbox-unity](https://user-images.githubusercontent.com/18353476/28955677-13871fce-789d-11e7-8899-4f1917ba6336.PNG)
 
-[Visual Studio 2017](https://www.visualstudio.com/)
+[Visual Studio 2019](https://www.visualstudio.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 
-[Unity 2017.4 or later](https://unity3d.com/)
+[Unity 2020.3 LTS or later](https://unity3d.com/)
 
-[Unity 2018.2.4f1 for Linux](https://beta.unity3d.com/download/fe703c5165de/public_download.html)
+[Download Unity for Windows](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
+
+[Download Unity for Mac](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg)
+
+[Instructions Unity for Linux](https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux)
 
 [Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
 
